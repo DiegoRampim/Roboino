@@ -1,0 +1,6 @@
+ControlaLed	KEYWORD1
+
+acende	KEYWORD2
+apaga	KEYWORD2
+pisca	KEYWORD2
+setDelay	KEYWORD2
